@@ -1,3 +1,6 @@
+# Make sure to install all the Python libraries
+# pip install python
+ 
 import tkinter as tk
 from tkinter import *
 from tkinter import messagebox
